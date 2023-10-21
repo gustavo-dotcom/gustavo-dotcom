@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋
+## My name is Gustavo, nice to meet you! 🙂
+- 📚 I'm currently studying computer science at Centro Universitário de Belo Horizonte
+### How to reach me:
+- 📧 gustavooliver287@gmail.com
+- 📷 @gufonsec
 
 <!--
 **gustavo-dotcom/gustavo-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
